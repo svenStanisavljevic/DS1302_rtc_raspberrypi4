@@ -1,0 +1,7 @@
+#vcc se spaja na 3.3v
+#gnd na gnd
+
+[pins]
+clk_pin = 2
+rst_pin = 3
+dat_pin = 4
